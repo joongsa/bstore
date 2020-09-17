@@ -45,7 +45,6 @@
 - 취소하면 수량 원복되고, 예약상태 변경됨
 
 ![1](https://user-images.githubusercontent.com/45332921/93431995-e32dcd00-f8ff-11ea-9d12-962ee4eff5f1.JPG)
-![1](https://user-images.githubusercontent.com/45332921/93431995-e32dcd00-f8ff-11ea-9d12-962ee4eff5f1.JPG)
 ![2](https://user-images.githubusercontent.com/45332921/93431996-e3c66380-f8ff-11ea-98fe-2ad98a7a69b2.JPG)
 ![3](https://user-images.githubusercontent.com/45332921/93431998-e3c66380-f8ff-11ea-9710-38e914f39731.JPG)
 ![4](https://user-images.githubusercontent.com/45332921/93431999-e45efa00-f8ff-11ea-8490-73352224156c.JPG)
